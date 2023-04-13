@@ -1,6 +1,6 @@
 {
   "name": "hardhat-starter-kit",
-  "version": "1.0.0",
+  "version": "^1.0.0",
   "description": "",
   "scripts": {
     "compile": "hardhat compile",
@@ -20,7 +20,7 @@
     "chai": "^4.3.4",
     "ethereum-waffle": "^3.4.0",
     "ethers": "^5.5.1",
-    "hardhat": "^2.9.0",
+    "hardhat": "^2.11.2",
     "hardhat-contract-sizer": "^2.4.0",
     "hardhat-deploy": "^0.9.29",
     "hardhat-gas-reporter": "^1.0.7",
@@ -40,5 +40,8 @@
   },
   "mocha": {
     "timeout": 10000000
+  },
+  "engines": {
+    "node": "18.15.0"
   }
 }
