@@ -1,13 +1,4 @@
-<br/>
-<p align="center">
-<a href="https://chain.link" target="_blank">
-<img src="./box-img-lg.png" width="225" alt="Chainlink Hardhat logo">
-</a>
-</p>
-<br/>
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/smartcontractkit/hardhat-starter-kit)
-
+ 
 - [Chainlink Hardhat Starter Kit](#chainlink-hardhat-starter-kit)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
@@ -17,7 +8,7 @@
   - [Deploying Contracts](#deploying-contracts)
   - [Run a Local Network](#run-a-local-network)
   - [Using a Testnet or Live Network (like Mainnet or Polygon)](#using-a-testnet-or-live-network-like-mainnet-or-polygon)
-    - [Rinkeby Ethereum Testnet Setup](#rinkeby-ethereum-testnet-setup)
+    
   - [Forking](#forking)
   - [Auto-Funding](#auto-funding)
 - [Test](#test)
